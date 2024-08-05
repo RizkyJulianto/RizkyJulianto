@@ -7,7 +7,7 @@
 
 
 
-- 🤔 I’m currently learning Tailwind CSS, Flutter , Phyton, Laravel.
+- 🤔 I’m currently learning Tailwind CSS, React ,Phyton, Laravel. 
 - 📫 How to reach me: juliantorizky01@gmail.com
 
 
