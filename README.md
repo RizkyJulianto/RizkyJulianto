@@ -48,6 +48,6 @@
 </div> <br> <br>
 
 <div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliantomaga&show_icons=true&locale=en&layout=compact" alt="juliantomaga" />
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RizkyJulianto&show_icons=true&locale=en&layout=compact" alt="juliantomaga" />
 </div>
 
