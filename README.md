@@ -1,14 +1,26 @@
-<h1 align="center">Hi 👋, I'm Rizky Julianto</h1>
-<h3 align="center">A student who will become a front end developer</h3>
+# Rizky Julianto
 
-- 🌱 I’m currently learning **Web Developer**
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuliantomaga%2Fjuliantomaga&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<h1 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rizky julianto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky julianto" height="30" width="50" /></a>
-</p>
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/RizkyJulianto/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rzzkyj/)](https://www.instagram.com/rzzkyj)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juliantorizky01@gmail.com)
 
-<h1 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> </p>
+[![Github](https://img.shields.io/github/followers/juliantomaga?label=Follow&style=social)](https://github.com/juliantomaga)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliantomaga&show_icons=true&locale=en&layout=compact" alt="juliantomaga" /></p>
+- 🤔 I’m currently learning Tailwind CSS, Flutter , Phyton, Laravel.
+- 📫 How to reach me: juliantorizky01@gmail.com
+
+
+### 🖥 Skills
+
+- Web Development
+- Database 
+### ⚙️ Tech Stack
+
+![Bootstrap](https://img.shields.io/badge/-HTML5-05122A?style=flat-square&logo=HTML5&color=464444) ![Bootstrap](https://img.shields.io/badge/-CSS3-05122A?style=flat-square&logo=CSS3&color=464444) ![Bootstrap](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=JavaScript&color=464444) ![Bootstrap](https://img.shields.io/badge/-Java-05122A?style=flat-square&logo=Java&color=464444) ![Bootstrap](https://img.shields.io/badge/-Kotlin-05122A?style=flat-square&logo=Kotlin&color=464444) ![Bootstrap](https://img.shields.io/badge/-c%23-05122A?style=flat-square&logo=c#&color=464444) ![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=464444) ![Bootstrap](https://img.shields.io/badge/-.Net-05122A?style=flat-square&logo=.Net&color=464444) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat-square&logo=Bootstrap&color=464444) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=464444) ![Bootstrap](https://img.shields.io/badge/-PhpMyAdmin-05122A?style=flat-square&logo=PhpMyAdmin&color=464444) ![Bootstrap](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat-square&logo=SQL-Server&color=464444) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=464444) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20-05122A?style=flat-square&logo=Visual-Studio&color=464444) ![Bootstrap](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat-square&logo=Android-Studio&color=464444)
+
+<div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliantomaga&show_icons=true&locale=en&layout=compact" alt="juliantomaga" />
+</div>
+
