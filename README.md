@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/rzzkyj/)](https://www.instagram.com/rzzkyj)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:juliantorizky01@gmail.com)
 
-[![Github](https://img.shields.io/github/followers/juliantomaga?label=Follow&style=social)](https://github.com/juliantomaga)
+
 
 - 🤔 I’m currently learning Tailwind CSS, Flutter , Phyton, Laravel.
 - 📫 How to reach me: juliantorizky01@gmail.com
