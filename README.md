@@ -9,10 +9,10 @@
 
 
 # 💫 About Me:
-<h4>🔭 I'm learning and expanding my knowledge of web development technologies.</h4>
-<h4>🌱 I’m currently learning Frond-End Development</h4>
-<h4>💬 Ask me about Front-End Development</h4>
-<h4>⚡ Fun fact i I've written more comments than actual code.</h4>
+🔭 I'm learning and expanding my knowledge of web development technologies.<br>
+🌱 I’m currently learning Frond-End Development<br>
+💬 Ask me about Front-End Development<br>
+⚡ Fun fact i I've written more comments than actual code
 
 # 🛠 Language and tools:
 
