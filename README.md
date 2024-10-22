@@ -1,6 +1,3 @@
-
-
-
 <h1>Hi 👋, I'm Rizky Julianto</h1>
 
 
