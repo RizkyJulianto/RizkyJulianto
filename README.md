@@ -4,7 +4,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-
 # 💫 About Me:
 🔭 I'm learning and expanding my knowledge of web development technologies.<br>
 🌱 I’m currently learning Frond-End Development<br>
